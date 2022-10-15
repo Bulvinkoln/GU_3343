@@ -1,1 +1,38 @@
-Tasks
+Tasks: prepare instructions to work with Git and remote repositories
+
+# Instructions for working with Git and remote repositories
+
+## What is Git?
+Git - is one of the implementations of distributed version control systems, which has both local and remote repositories. It is the most popular implementation of version control systems in the world.
+## Preparing the repository
+To create a repository, you need to run the *git init*  command in the repository folder and you will create a repository (a hidden folder will appear .git)
+
+## Creating commits
+
+### Git add
+To add changes to a commit, use the *git add*. To use the command *git add* write *git add <file_name>*
+
+### View repository status
+In order to view the repository status command is used *git status*. To do this, write *git status*, in the repository folder, and you will see whether there were changes in the files, or there were none.
+
+### Creating commits
+In order to create a commit (save), you need to run the command *git commit*. It runs like this: *git commit -m "<message_to_commit>*. All files for the commit must be ***ADDED*** and a message to the commit must be ***WRITTEN***.
+
+## Moving between saves
+In order to move between commits, the command *git checkout*. It is used in the folder with the repository as follows: *git checkout <commit_number>*
+
+## Change log
+In order to see all the changes made in the repository, the command *git log*. To do this, just run the command  *git log* in the repository folder.
+
+## Branches in Git
+
+### Creating a branch
+
+To create a branch, use the command *git branch*. This is done as follows in the repository folder: *git branch <name_of_the_new_branch>*.
+
+## Merging branches
+
+To delete a branch, enter the command *git merge <name branch>*.
+
+## Removing branches
+To delete a branch, enter the command "git branch -d 'name branch'".
