@@ -1,0 +1,15 @@
+E:\GB3343\GU_3343\Csharp_seminar3\Example02_xy2\bin\Debug\net6.0\Example02_xy2.exe
+E:\GB3343\GU_3343\Csharp_seminar3\Example02_xy2\bin\Debug\net6.0\Example02_xy2.deps.json
+E:\GB3343\GU_3343\Csharp_seminar3\Example02_xy2\bin\Debug\net6.0\Example02_xy2.runtimeconfig.json
+E:\GB3343\GU_3343\Csharp_seminar3\Example02_xy2\bin\Debug\net6.0\Example02_xy2.dll
+E:\GB3343\GU_3343\Csharp_seminar3\Example02_xy2\bin\Debug\net6.0\Example02_xy2.pdb
+E:\GB3343\GU_3343\Csharp_seminar3\Example02_xy2\obj\Debug\net6.0\Example02_xy2.csproj.AssemblyReference.cache
+E:\GB3343\GU_3343\Csharp_seminar3\Example02_xy2\obj\Debug\net6.0\Example02_xy2.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB3343\GU_3343\Csharp_seminar3\Example02_xy2\obj\Debug\net6.0\Example02_xy2.AssemblyInfoInputs.cache
+E:\GB3343\GU_3343\Csharp_seminar3\Example02_xy2\obj\Debug\net6.0\Example02_xy2.AssemblyInfo.cs
+E:\GB3343\GU_3343\Csharp_seminar3\Example02_xy2\obj\Debug\net6.0\Example02_xy2.csproj.CoreCompileInputs.cache
+E:\GB3343\GU_3343\Csharp_seminar3\Example02_xy2\obj\Debug\net6.0\Example02_xy2.dll
+E:\GB3343\GU_3343\Csharp_seminar3\Example02_xy2\obj\Debug\net6.0\refint\Example02_xy2.dll
+E:\GB3343\GU_3343\Csharp_seminar3\Example02_xy2\obj\Debug\net6.0\Example02_xy2.pdb
+E:\GB3343\GU_3343\Csharp_seminar3\Example02_xy2\obj\Debug\net6.0\Example02_xy2.genruntimeconfig.cache
+E:\GB3343\GU_3343\Csharp_seminar3\Example02_xy2\obj\Debug\net6.0\ref\Example02_xy2.dll
