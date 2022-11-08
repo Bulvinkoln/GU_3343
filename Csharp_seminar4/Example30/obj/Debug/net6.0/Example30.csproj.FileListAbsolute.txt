@@ -1,0 +1,15 @@
+E:\GB3343\GU_3343\Csharp_seminar4\Example30\bin\Debug\net6.0\Example30.exe
+E:\GB3343\GU_3343\Csharp_seminar4\Example30\bin\Debug\net6.0\Example30.deps.json
+E:\GB3343\GU_3343\Csharp_seminar4\Example30\bin\Debug\net6.0\Example30.runtimeconfig.json
+E:\GB3343\GU_3343\Csharp_seminar4\Example30\bin\Debug\net6.0\Example30.dll
+E:\GB3343\GU_3343\Csharp_seminar4\Example30\bin\Debug\net6.0\Example30.pdb
+E:\GB3343\GU_3343\Csharp_seminar4\Example30\obj\Debug\net6.0\Example30.csproj.AssemblyReference.cache
+E:\GB3343\GU_3343\Csharp_seminar4\Example30\obj\Debug\net6.0\Example30.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB3343\GU_3343\Csharp_seminar4\Example30\obj\Debug\net6.0\Example30.AssemblyInfoInputs.cache
+E:\GB3343\GU_3343\Csharp_seminar4\Example30\obj\Debug\net6.0\Example30.AssemblyInfo.cs
+E:\GB3343\GU_3343\Csharp_seminar4\Example30\obj\Debug\net6.0\Example30.csproj.CoreCompileInputs.cache
+E:\GB3343\GU_3343\Csharp_seminar4\Example30\obj\Debug\net6.0\Example30.dll
+E:\GB3343\GU_3343\Csharp_seminar4\Example30\obj\Debug\net6.0\refint\Example30.dll
+E:\GB3343\GU_3343\Csharp_seminar4\Example30\obj\Debug\net6.0\Example30.pdb
+E:\GB3343\GU_3343\Csharp_seminar4\Example30\obj\Debug\net6.0\Example30.genruntimeconfig.cache
+E:\GB3343\GU_3343\Csharp_seminar4\Example30\obj\Debug\net6.0\ref\Example30.dll
