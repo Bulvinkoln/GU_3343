@@ -4,31 +4,31 @@
 
 int GetNumber(string message)
 {
-int result;
-while(true)
-{
-Console.WriteLine(message);
+    int result;
+    while(true)
+    {
+        Console.WriteLine(message);
 
-if(int.TryParse(Console.ReadLine(), out int number))
-{
-return number;
-}
-else
-{
-Console.WriteLine(" Ввели не число или число равное нулю. Повторите ввод \n");
-}
-}
-return result;
+    if(int.TryParse(Console.ReadLine(), out int number))
+    {
+    return number;
+    }
+    else
+    {
+        Console.WriteLine(" Ввели не число или число равное нулю. Повторите ввод \n");
+    }
+    }
+    return result;
 }
 void Square(int n)
 {
-for(int i = 1; i <= n; i++)
-{
-if(i!=n)
-Console.Write($"{i*i}, ");
-else
-Console.Write($"{i*i} ");
-}
+    for(int i = 1; i <= n; i++)
+    {
+    if(i!=n)
+    Console.Write($"{i*i}, ");
+    else
+    Console.Write($"{i*i} ");
+    }
 }
 
 int number = GetNumber("Введите число N");
